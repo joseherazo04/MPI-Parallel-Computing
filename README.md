@@ -1,6 +1,6 @@
-# Parallel-Computing
+# Parallel-Computing with MPI
 
-Parallel implementation of Gauss-Seidel algorithm used to solve linear system of equations using MPI. Aditional information about the method on “Parallel Computer Architecture. A Hardware/Software Approach. David Culler, Jaswinder Pal Singh, Anoop Gupta”.
+Parallel implementation of Gauss-Seidel algorithm used to solve linear system of equations using MPI (Message Passing Interface). Aditional information about the method on “Parallel Computer Architecture. A Hardware/Software Approach. David Culler, Jaswinder Pal Singh, Anoop Gupta”.
 
 # Description
 
