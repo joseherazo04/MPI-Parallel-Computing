@@ -42,7 +42,7 @@ At the end of the execution some interesting information is printed. The informa
 # End notes
 
 This code was part of my studies and I hope it can be useful for you in your studies on Parallel Computing. 
-This piece of code can be used for testing performance on different computers and other some interesting stuff you can image.
+This piece of code can be used for testing performance on different computers and other some interesting stuff you can imagine.
 
 
 
